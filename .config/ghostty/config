@@ -1,0 +1,11 @@
+theme = Afterglow
+confirm-close-surface = false
+window-padding-x = 10
+window-padding-y = 10
+window-padding-balance = true
+window-padding-color = background
+
+font-family = Iosevka NF
+font-size = 14
+
+custom-shader = shaders/cursor_smear_fade.glsl
